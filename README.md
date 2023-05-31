@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kariman Ayman👋</h1>
-<h3 align="center">Undergraduate computer science student, software developer, and problem solver!!</h3>
+<h3 align="center">Undergraduate information systems student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kariiman-ayman&label=Profile%20views&color=blueviolet&style=flat" alt="kariiman-ayman" /> </p>
 <img align="right" alt="Coding" width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
