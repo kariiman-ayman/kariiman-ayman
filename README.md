@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariiman-ayman&show_icons=true&locale=en" alt="kariiman-ayman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kariiman-ayman&" alt="kariiman-ayman" /></p> 
