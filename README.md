@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Kariman Ayman</h1>
 <h3 align="center">🎓Fresh Graduate | Information Systems | Cairo University</h3>
 
-<p> <strong> Hi there! I'm a passionate fresh graduate from the Information Systems Department, Faculty of Computers and Artificial Intelligence, Cairo University. I'm currently diving into the world of front-end development with React.js and sharpening my problem-solving skills. </strong> </p>
+<p> <strong> I'm a passionate fresh graduate from the Information Systems Department, Faculty of Computers and Artificial Intelligence, Cairo University. I'm currently diving into the world of front-end development with React.js and sharpening my problem-solving skills. </strong> </p>
 <p> <strong> I love creating dynamic, user-friendly web applications and constantly strive to learn and grow in the tech field. </strong> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariiman-ayman" alt="kariiman-ayman" /></a> </p>
