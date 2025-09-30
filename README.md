@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Kariman Ayman</h1>
-<h3 align="center">🎓Fresh Graduate | Information Systems | Cairo University</h3>
+<h3 align="center">🎓Graduate | Information Systems | Cairo University</h3>
 
 <p> <strong> I'm a passionate fresh graduate from the Information Systems Department, Faculty of Computers and Artificial Intelligence, Cairo University. I'm currently diving into the world of front-end development with React.js and sharpening my problem-solving skills. </strong> </p>
 <p> <strong> I love creating dynamic, user-friendly web applications and constantly strive to learn and grow in the tech field. </strong> </p>
